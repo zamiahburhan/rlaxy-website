@@ -1,0 +1,274 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a6f6f1;
+  padding: 40px 60px;
+  flex-wrap: wrap;
+}
+
+.hero-left {
+  width: 50%;
+  text-align: center;
+}
+
+.hero-image {
+  max-width: 300px;
+  height: auto;
+}
+
+.hero-left h1 {
+  font-size: 36px;
+  color: #ffc107;
+  margin: 10px 0;
+}
+
+.tagline {
+  color: white;
+  font-size: 16px;
+}
+
+.hero-right {
+  width: 45%;
+  text-align: center;
+}
+
+.hero-right h2 {
+  color: #ffca28;
+  font-size: 28px;
+  transform: rotate(-15deg);
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  background-color: #ffd700;
+  padding: 12px 20px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.middle-section {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0e9d8;
+  padding: 40px 60px;
+  flex-wrap: wrap;
+}
+
+.illustration {
+  width: 45%;
+}
+
+.illustration img {
+  max-width: 100%;
+  height: auto;
+}
+
+.form-box {
+  width: 45%;
+}
+
+form input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.follow-btn {
+  background-color: yellow;
+  padding: 10px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.note {
+  font-size: 12px;
+  margin: 10px 0;
+}
+
+.icons img {
+  width: 25px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+
+.mission {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+  font-size: 16px;
+}
+
+.mission strong {
+  font-size: 18px;
+}
+
+.about-rlaxy {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 40px;
+  background-color: #f8f8f8;
+}
+.about-left img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+.caption {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.about-right {
+  max-width: 500px;
+}
+.about-right h2 {
+  color: #2c3e50;
+}
+.about-right em {
+  color: #888;
+  display: block;
+  margin-bottom: 15px;
+}
+.menu {
+  padding: 40px;
+}
+
+.menu-page {
+  padding: 40px;
+  background-color: #e0f7fa;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+.menu-page h1 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.menu-section {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.menu-column {
+  flex: 1;
+  min-width: 300px;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.menu-column h2 {
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+}
+
+.menu-column ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu-column li {
+  padding: 10px;
+  font-size: 16px;
+  border-bottom: 1px dashed #ccc;
+}
+
+.latte-options, .menu-footer {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.voucher-btn, .checkout-btn {
+  background-color: #ffcc00;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 25px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.payment-page {
+  background-color: #8af3f2;
+  text-align: center;
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.payment-page h1 {
+  background-color: #ffd700;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.payment-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.side-img img {
+  max-width: 120px;
+}
+
+.payment-options {
+  background-color: #555;
+  padding: 30px;
+  border-radius: 12px;
+  width: 300px;
+}
+
+.payment-options button {
+  display: block;
+  width: 100%;
+  background-color: #ffd700;
+  border: none;
+  padding: 10px;
+  margin: 10px 0;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.payment-logo {
+  width: 120px;
+  margin: 10px auto;
+}
+
+.qr-icons {
+  margin: 10px 0;
+}
+
+.qr-icon {
+  width: 50px;
+  margin: 0 10px;
+}
+
+.confirm-btn {
+  background-color: #ffcc00;
+}
