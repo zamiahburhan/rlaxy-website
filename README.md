@@ -6,18 +6,31 @@ Welcome to RLAXY, a calming tea café concept turned into a modern, responsive w
 You can preview the website by opening `index.html` using Live Server or through a browser.
 
 📁 Project Structure
+
 rlaxy-website/
+
 ├── index.html             # Homepage (Hero + Call to Action)
+
 ├── about.html             # Brand story + Kyoto Breeze highlight
+
 ├── menu.html              # Menu with drinks & pricing
+
 ├── checkout.html          # Payment options simulation
+
 ├── style.css              # Full styling for all pages
+
 ├── images/                # All visual assets (logo, drinks, icons, etc)
+
 │   ├── rlaxy-drink.jpg
+
 │   ├── cafe-illustration.png
+
 │   ├── facebook-icon.png
+
 │   ├── instagram-icon.png
+
 │   ├── tiktok-icon.png
+
 │   └── ...
 └── README.md              
     Project overview
