@@ -48,10 +48,10 @@ RLAXY :
 
 1. index.html
 
-1. Hero image section with branding slogan
-2. CTA Button ("Book a Table")
-3. Newsletter section with input prompts
-4. Social media icons (Facebook, Instagram, TikTok)
+- Hero image section with branding slogan
+- CTA Button ("Book a Table")
+- Newsletter section with input prompts
+- Social media icons (Facebook, Instagram, TikTok)
 
 2. about.html
 
