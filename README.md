@@ -1,63 +1,85 @@
-🌿 **RLAXY - Relaxing Tea Web Project**
+**RLAXY - Relaxing Tea Web Project**
 
-Welcome to RLAXY, a calming tea café concept turned into a modern, responsive web project. This website showcases a full customer journey experience — from product introduction to menu browsing and online order simulation.
+RLAXY is a fictional minimalist tea brand concept inspired by cozy cafe aesthetics. This web-based prototype was developed to demonstrate the full-stack front-end skills involving HTML, CSS, and basic JavaScript, with PHP and MySQL integration for dynamic data handling (to be added in next development phase).
 
-🔗 Live Preview
-You can preview the website by opening `index.html` using Live Server or through a browser.
+🌐 Live Preview (Optional)
 
-📁 Project Structure
+Note: Since this project was developed using XAMPP (localhost), you can clone it and run it locally using a web server environment like XAMPP or MAMP.
 
-rlaxy-website/
-
-├── index.html             # Homepage (Hero + Call to Action)
-
-├── about.html             # Brand story + Kyoto Breeze highlight
-
-├── menu.html              # Menu with drinks & pricing
-
-├── checkout.html          # Payment options simulation
-
-├── style.css              # Full styling for all pages
-
-├── images/                # All visual assets (logo, drinks, icons, etc)
-
+📁 Folder Structure
+RLAXY/
+├── index.html            # Homepage
+├── about.html            # About Us Page
+├── menu.html             # Menu Listing Page
+├── checkout.html         # Checkout / Payment Page
+├── style.css             # CSS Styling
+├── images/               # All images/icons used
 │   ├── rlaxy-drink.jpg
-
 │   ├── cafe-illustration.png
-
 │   ├── facebook-icon.png
-
 │   ├── instagram-icon.png
-
 │   ├── tiktok-icon.png
-
+│   ├── visa-master.png
 │   └── ...
-└── README.md              Project overview
+└── README.md             # Project Overview
 
-💡 Features
-- Responsive layout with media queries
-- Minimalist UI/UX with consistent design
-- Multi-page structure (HTML5 + CSS3 only)
-- Integrated social media icons
-- Call-to-action buttons & simple customer flow
 
-🛠 Technologies Used
-- **HTML5** for structure
-- **CSS3** for design & layout
-- **JavaScript (Coming soon)** for interactivity
-- **Optional PHP & MySQL** if back-end is added later
+💻 Technologies Used
+- HTML5
+- CSS3 (Flexbox, Media Queries)
+- JavaScript (basic interactivity)
+- PHP & MySQL (next phase - in progress)
+- XAMPP for local server testing
 
-📌 Pages Overview
-- **Home:** Visual hero banner + brand callout
-- **About:** Highlights RLAXY story & why it’s unique
-- **Menu:** Categorized drinks with pricing
-- **Checkout:** Visual payment options (mockup UI only)
+📲 Pages & Features
 
----
+1. index.html
 
-👩‍💻 Developer Info
-Created by: **Zamiah Burhan**  
-Assignment- Web Technology (Malaysia University of Science & Technology)
+1. Hero image section with branding slogan
+2. CTA Button ("Book a Table")
+3. Newsletter section with input prompts
+4. Social media icons (Facebook, Instagram, TikTok)
 
-This project is under the **MIT License**.
+2. about.html
 
+- Introduction to RLAXY concept and mission
+- Drink highlight: Kyoto Breeze
+- Branding philosophy
+
+3. menu.html
+
+- Two-section drink listing (Inside the Cafe & Seasonal)
+- Custom latte option mention
+- Apply voucher button
+- "Review Payment & Order" link to checkout page
+
+4. checkout.html
+
+- Payment methods (Online Banking, Debit/Credit Card, QR Pay)
+- Social media banner images
+- Confirmation button (not functional yet - PHP version pending)
+- 🎨 UI/UX Highlights
+- Cozy, pastel-toned interface
+- Minimalist, spacious layout
+- Clear navigation through all pages
+- Mobile-responsive design (basic media queries included)
+
+📌 Next Steps (Optional Improvements)
+1. Add form validation (JavaScript)
+
+2. Backend integration with PHP/MySQL for storing orders
+
+3. Admin dashboard for menu & order management
+
+4. Accessibility improvements (ARIA tags)
+
+
+⚖️ License
+
+This project is licensed under the MIT License. You are free to modify and use it for learning purposes.
+
+🤍 Creator
+
+Made with 💛 by Zamiah Burhan, BIT student @ MUST (Malaysia University of Science & Technology)
+
+This project was part of a assignment for Web Technology subject.
