@@ -7,7 +7,8 @@ RLAXY is a fictional minimalist tea brand concept inspired by cozy cafe aestheti
 Note: Since this project was developed using XAMPP (localhost), you can clone it and run it locally using a web server environment like XAMPP or MAMP.
 
 📁 Folder Structure
-RLAXY/
+RLAXY :
+
 ├── index.html            # Homepage
 
 ├── about.html            # About Us Page
