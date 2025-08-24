@@ -9,17 +9,29 @@ Note: Since this project was developed using XAMPP (localhost), you can clone it
 📁 Folder Structure
 RLAXY/
 ├── index.html            # Homepage
+
 ├── about.html            # About Us Page
+
 ├── menu.html             # Menu Listing Page
+
 ├── checkout.html         # Checkout / Payment Page
+
 ├── style.css             # CSS Styling
+
 ├── images/               # All images/icons used
+
 │   ├── rlaxy-drink.jpg
+
 │   ├── cafe-illustration.png
+
 │   ├── facebook-icon.png
+
 │   ├── instagram-icon.png
+
 │   ├── tiktok-icon.png
+
 │   ├── visa-master.png
+
 │   └── ...
 └── README.md             # Project Overview
 
