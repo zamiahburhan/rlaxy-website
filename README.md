@@ -32,8 +32,7 @@ rlaxy-website/
 │   ├── tiktok-icon.png
 
 │   └── ...
-└── README.md              
-    Project overview
+└── README.md              Project overview
 
 💡 Features
 - Responsive layout with media queries
