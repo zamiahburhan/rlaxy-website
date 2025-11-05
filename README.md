@@ -1,8 +1,15 @@
 **RLAXY - Relaxing Tea Web Project**
 
-RLAXY is a fictional minimalist tea brand concept inspired by cozy cafe aesthetics. This web-based prototype was developed to demonstrate the full-stack front-end skills involving HTML, CSS, and basic JavaScript, with PHP and MySQL integration for dynamic data handling (to be added in next development phase).
+RLAXY is a fictional minimalist tea brand concept inspired by cozy cafe aesthetics. This web-based prototype was developed to demonstrate the full-stack front-end skills involving HTML, CSS, and basic JavaScript, with PHP and MySQL integration for dynamic data handling (to be added in next development phase). 
 
-🌐 Live Preview (Optional)
+This is the reference, Website Canva that i have built from Canva
+
+https://www.canva.com/design/DAGrPaedh_c/CVNpIS9HhKeGbcL_6NsuiQ/edit?utm_content=DAGrPaedh_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+🌐 So here the Live Preview, Dummy website from scratch reference from website canva above that i did it first there;
+    
+    https://zamiahburhan.github.io/rlaxy-website/
+
 
 Note: Since this project was developed using XAMPP (localhost), you can clone it and run it locally using a web server environment like XAMPP or MAMP.
 
